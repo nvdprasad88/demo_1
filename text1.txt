@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is from master
+=======
+this is from branch1
+this is from branch2
+>>>>>>> branch2
